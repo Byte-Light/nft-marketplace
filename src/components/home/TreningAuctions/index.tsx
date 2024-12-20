@@ -80,7 +80,7 @@ export default function TreningAuctions() {
             </div>
             <div className="flex gap-3">
               <Image
-                src={"/images/image1.png"}
+                src={"/images/image1.jpg"}
                 alt="nft2"
                 width={350}
                 height={600}
@@ -134,7 +134,7 @@ export default function TreningAuctions() {
             </div>
             <div className="flex gap-3">
               <Image
-                src={"/images/image2.png"}
+                src={"/images/image2.jpg"}
                 alt="nft2"
                 width={400}
                 height={600}
@@ -188,7 +188,7 @@ export default function TreningAuctions() {
             </div>
             <div className="flex gap-3">
               <Image
-                src={"/images/image3.png"}
+                src={"/images/image3.jpg"}
                 alt="nft2"
                 width={350}
                 height={600}
